@@ -1,0 +1,6 @@
+[submodule "test"]
+	path = test
+	url = https://github.com/vaguelee/test.git
+[submodule "myna"]
+	path = myna
+	url = https://github.com/vaguelee/test.git
